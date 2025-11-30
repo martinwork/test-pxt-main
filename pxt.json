@@ -3,13 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*",
         "test-pxt-dep": "github:martinwork/test-pxt-dep#v0.0.1"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "custom.ts"
     ],
